@@ -67,7 +67,7 @@ const App = () => {
         </>
       ),
     },
-  ]);
+  ],{basename});
   return <RouterProvider router={appRoutes} />;
 };
 export default App;
