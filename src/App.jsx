@@ -12,6 +12,8 @@ import "./App.css";
 import CuisinesSection from "./components/CuisinesSection";
 
 const App = () => {
+
+  const basename = "/RecipeVault";
   const appRoutes = createBrowserRouter([
     {
       path: "/",
