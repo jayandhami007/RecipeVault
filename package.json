@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jayandhami007.github.io/recipevault",
+  "homepage": "https://jayandhami007.github.io/RecipeVault",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
